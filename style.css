@@ -1,4 +1,8 @@
-body {background-color: powderblue;}
+body {
+    margin: 0;
+    background-color: powderblue;
+    text-align: center;
+}
 
 /* body {
     /* margin: 0; */
